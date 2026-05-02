@@ -1,0 +1,6 @@
+DB_name= "IELTS-Agent"
+users_table= "users"
+reports_table= "reports"
+host="localhost"
+user="root"
+password=""
